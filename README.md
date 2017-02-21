@@ -11,7 +11,5 @@ Sample Android app of Floating Action Button animation.
 [Animation files](https://github.com/valdio/FloatingActionButton_Animation_Project/tree/master/FloatingActionButtonProject/app/src/main/res/anim)
 
 ##Final project
-![Final project](https://github.com/valdio/FloatingActionButton_Animation_Project/blob/master/Screenshots/final%20project.gif)
 
-
-![Circular reveal](https://github.com/valdio/FloatingActionButton_Animation_Project/blob/master/Screenshots/fab%20animation%20.gif)
+|![Final project](https://github.com/valdio/FloatingActionButton_Animation_Project/blob/master/Screenshots/final%20project.gif)|![Circular reveal](https://github.com/valdio/FloatingActionButton_Animation_Project/blob/master/Screenshots/fab%20animation%20.gif)|
